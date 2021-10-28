@@ -1,3 +1,7 @@
+/***
+ * Post: Describes a friend’s post. A post is similar to a tweet and represents
+ * what your social network is cooking.
+ */
 class Post {
   String id;
   String profileImageUrl;

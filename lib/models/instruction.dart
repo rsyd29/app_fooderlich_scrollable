@@ -1,3 +1,7 @@
+/***
+ * Instruction: A single instruction to cook the recipe. It’s part of
+ * ExploreRecipe.
+ */
 part of 'explore_recipe.dart';
 
 class Instruction {

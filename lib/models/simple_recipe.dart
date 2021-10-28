@@ -1,3 +1,6 @@
+/***
+ * SimpleRecipe: How difficult a recipe is to cook.
+ */
 class SimpleRecipe {
   String id;
   String dishImage;

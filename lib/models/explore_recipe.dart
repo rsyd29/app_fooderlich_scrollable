@@ -1,4 +1,10 @@
+/***
+ * ExploreRecipe: All of the details about a recipe. It contains ingredients,
+ * instructions, duration and a whole lot more.
+ */
+
 part 'ingredient.dart';
+
 part 'instruction.dart';
 
 class RecipeCardType {

@@ -1,3 +1,6 @@
+/***
+ * Ingredient: A single ingredient. This is part of ExploreRecipe.
+ */
 part of 'explore_recipe.dart';
 
 class Ingredients {
