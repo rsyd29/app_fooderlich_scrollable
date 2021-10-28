@@ -20,7 +20,10 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
-    - assets/food_pics/
-    - assets/magazine_pics/
-    - assets/sample_data/
-    - assets/profile_pics/
+    - assets/food_pics/ # Contains the food pictures you’ll display throughout the app.
+    - assets/magazine_pics/ # All the food magazine background images you’ll display on card widgets.
+    - assets/sample_data/ # The sample_data directory contains three JSON files:
+    # sample_explore_recipes.json: A list of recipes to display on the home screen. Sometimes, users might want recommendations for what to cook today!
+    # sample_friends_feed.json: This list contains samples of your friends’ posts, in case you’re curious about what your friends are cooking up! 👩‍🍳
+    # sample_recipes.json: A list of recipes including details about the duration and cooking difficulty of each.
+    - assets/profile_pics/ # Contains raywenderlich.com team member pictures.
